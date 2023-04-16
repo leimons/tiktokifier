@@ -21,6 +21,12 @@ h5 {
     font-family: 'Bebas Neue';
 }
 
+p{
+    font-family: 'Bebas Neue';
+    color: white;
+    font-size: 11px;
+}
+
 button{
     border-radius: 25px;
 }
