@@ -1,0 +1,37 @@
+
+
+#maintitle {
+    color: white;
+    text-align: center;
+    padding-top: 5%;
+}
+
+#choosevid {
+    color: white;
+    align-content: center;
+    padding-top: 2%
+}
+
+h5 {
+    color: white;
+    padding-top: 2%;
+}
+
+.chooser {
+    padding: 2;
+}
+
+#embframe {
+padding-top: 2%;
+}
+
+#minecraft {
+    display: none;
+
+}
+
+#subsurf {
+    display: none;
+
+}
+
