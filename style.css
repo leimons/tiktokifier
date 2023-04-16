@@ -19,12 +19,12 @@ h5 {
     color: white;
     padding-top: 2%;
     font-family: 'Bebas Neue';
-    
 }
 
 button{
     border-radius: 25px;
 }
+
 .btn{
     background-color: rgb(179, 255, 229);
 }
@@ -43,11 +43,9 @@ padding-top: 2%;
 
 #minecraft {
     display: none;
-
 }
 
 #subsurf {
     display: none;
-
 }
 
