@@ -49,3 +49,11 @@ padding-top: 2%;
     display: none;
 }
 
+#watermark { 
+    position: fixed; 
+    font-size: 10px;
+    color: rgb(59, 59, 59);
+    bottom: 0; 
+    right: 0; 
+    z-index:999; 
+}
