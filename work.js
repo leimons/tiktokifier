@@ -39,7 +39,7 @@ let showSS = function (params) {
     }
 
 }
-let showSS = function (params) {
+let showSC = function (params) {
     if(isClicked){
         divContSC.style.display = 'block';
         divContMC.style.display = 'none';
